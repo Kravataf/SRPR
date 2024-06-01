@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "SRP: Defense Addon",
-    "achievementDescription": "Adds traps and other stuff to help you survive among the parasites",
+    "achievementDescription": "Adds traps and other stuff to help you survive amongst the parasites",
     "achievementIcon": {
       "value": "CUSTOM:FleshArmor.helmet"
     },

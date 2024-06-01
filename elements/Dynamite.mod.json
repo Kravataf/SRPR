@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "dynamitetexture1",
+    "customModelName": "Normal",
+    "name": "Dynamite",
+    "creativeTab": {
+      "value": "CUSTOM:SrpDAcreativetab"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.25,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Dynamite"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DynamiteExplode"
+    },
+    "onBulletHitsEntity": {
+      "name": "DynamiteExplode"
+    },
+    "onRangedItemUsed": {
+      "name": "DynamiteUsed"
+    }
+  }
+}

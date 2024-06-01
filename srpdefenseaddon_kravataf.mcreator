@@ -1,6 +1,6 @@
 {
   "id_map": {
-    "ENTITY": 1
+    "ENTITY": 2
   },
   "mod_elements": [
     {
@@ -172,6 +172,68 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Dynamite",
+      "type": "gun",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      }
+    },
+    {
+      "name": "DynamiteUsed",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DynamiteExplode",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftDynamite",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -180,14 +242,15 @@
     "en_us": {
       "tile.sentientmine.name": "Sentient Mine",
       "item.plateofflesh.name": "Plate of Flesh",
-      "advancements.srpdawelcomeadvancement.descr": "Adds traps and other stuff to help you survive among the parasites",
       "tile.toughrock.name": "Tough Rock",
-      "item.flesharmorboots.name": "Flesh Boots",
-      "itemGroup.tabsrpdacreativetab": "SRP: Defense Addon",
       "item.flesharmorlegs.name": "Flesh Leggings",
+      "itemGroup.tabsrpdacreativetab": "SRP: Defense Addon",
+      "advancements.srpdawelcomeadvancement.title": "SRP: Defense Addon",
+      "item.dynamite.name": "Dynamite",
+      "advancements.srpdawelcomeadvancement.descr": "Adds traps and other stuff to help you survive amongst the parasites",
+      "item.flesharmorboots.name": "Flesh Boots",
       "item.flesharmorhelmet.name": "Flesh Helmet",
       "tile.toughwood.name": "Tough Wood",
-      "advancements.srpdawelcomeadvancement.title": "SRP: Defense Addon",
       "item.flesharmorbody.name": "Flesh Body"
     }
   },

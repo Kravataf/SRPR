@@ -1,0 +1,24 @@
+{
+  "group": "srpdefenseaddon_kravataf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "srpdefenseaddon_kravataf:dynamite",
+    "count": 3
+  }
+}
