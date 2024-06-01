@@ -1,0 +1,30 @@
+{
+  "group": "srpdefenseaddon_kravataf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "srpdefenseaddon_kravataf:plateofflesh"
+    },
+    "3": {
+      "item": "srpdefenseaddon_kravataf:plateofflesh"
+    },
+    "4": {
+      "item": "minecraft:iron_boots"
+    },
+    "5": {
+      "item": "srpdefenseaddon_kravataf:plateofflesh"
+    },
+    "7": {
+      "item": "srpdefenseaddon_kravataf:plateofflesh"
+    }
+  },
+  "result": {
+    "item": "srpdefenseaddon_kravataf:flesharmorboots",
+    "count": 1
+  }
+}

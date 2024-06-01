@@ -1,0 +1,63 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "emplatermorexture_head",
+    "enableBody": true,
+    "textureBody": "emplatermorexture_body",
+    "enableLeggings": true,
+    "textureLeggings": "emplatermorexture_leggings",
+    "enableBoots": true,
+    "textureBoots": "emplatermorexture_boots",
+    "onHelmetTick": {
+      "name": "FleshArmorPassiveEffect"
+    },
+    "onBodyTick": {
+      "name": "FleshArmorPassiveEffect"
+    },
+    "onLeggingsTick": {
+      "name": "FleshArmorPassiveEffect"
+    },
+    "onBootsTick": {
+      "name": "FleshArmorPassiveEffect"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SrpDAcreativetab"
+    },
+    "armorTextureFile": "emplatermorexture",
+    "helmetName": "Flesh Helmet",
+    "bodyName": "Flesh Body",
+    "leggingsName": "Flesh Leggings",
+    "bootsName": "Flesh Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 50,
+    "damageValueHelmet": 4,
+    "damageValueBody": 12,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 4,
+    "enchantability": 9,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.MELON_BLOCK"
+      }
+    ]
+  }
+}

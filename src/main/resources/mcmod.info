@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "srpdefenseaddon_kravataf",
+    "name": "Scape and Run: Parasites Defense Addon",
+    "description": "Adds stuff to help you survive among the parasites",
+    "version": "1.0.0",
+    "credits": "made by kravataf using mcreator, blockbench and piskel",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://kravataf.com",
+    "updateUrl": "",
+    "authorList": [
+      "kravataf"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

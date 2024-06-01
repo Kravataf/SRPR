@@ -1,0 +1,213 @@
+{
+  "id_map": {
+    "ENTITY": 1
+  },
+  "mod_elements": [
+    {
+      "name": "SentientMine",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SentientMineExplode",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftSentientMine",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "FleshArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlateOfFlesh",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftPlateOfFlesh",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "CraftFleshHelmet",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftFleshBody",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftFleshLeggings",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftFleshBoots",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SrpDAWelcomeAdvancement",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SrpDAcreativetab",
+      "type": "tab",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToughRock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToughWood",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FleshArmorPassiveEffect",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftToughRock",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftToughWood",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.sentientmine.name": "Sentient Mine",
+      "item.plateofflesh.name": "Plate of Flesh",
+      "advancements.srpdawelcomeadvancement.descr": "Adds traps and other stuff to help you survive among the parasites",
+      "tile.toughrock.name": "Tough Rock",
+      "item.flesharmorboots.name": "Flesh Boots",
+      "itemGroup.tabsrpdacreativetab": "SRP: Defense Addon",
+      "item.flesharmorlegs.name": "Flesh Leggings",
+      "item.flesharmorhelmet.name": "Flesh Helmet",
+      "tile.toughwood.name": "Tough Wood",
+      "advancements.srpdawelcomeadvancement.title": "SRP: Defense Addon",
+      "item.flesharmorbody.name": "Flesh Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "srpdefenseaddon_kravataf",
+    "modName": "Scape and Run: Parasites Defense Addon",
+    "version": "1.0.0",
+    "description": "Adds stuff to help you survive among the parasites",
+    "author": "kravataf",
+    "websiteURL": "https://kravataf.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "made by kravataf using mcreator, blockbench and piskel",
+    "modElementsPackage": "net.mcreator.srpdefenseaddon_kravataf",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

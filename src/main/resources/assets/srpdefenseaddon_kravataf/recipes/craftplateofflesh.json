@@ -1,0 +1,26 @@
+{
+  "group": "srpdefenseaddon_kravataf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "srparasites:assimilated_flesh"
+    },
+    "1": {
+      "item": "srparasites:assimilated_flesh"
+    },
+    "2": {
+      "item": "srparasites:assimilated_flesh"
+    },
+    "3": {
+      "item": "srparasites:assimilated_flesh"
+    }
+  },
+  "result": {
+    "item": "srpdefenseaddon_kravataf:plateofflesh",
+    "count": 4
+  }
+}
