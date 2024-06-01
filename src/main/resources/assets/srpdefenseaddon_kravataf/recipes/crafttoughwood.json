@@ -8,20 +8,20 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:iron_bars"
+      "item": "srpdefenseaddon_kravataf:reinforcedironbar"
     },
     "3": {
-      "item": "minecraft:iron_bars"
+      "item": "srpdefenseaddon_kravataf:reinforcedironbar"
     },
     "4": {
       "item": "minecraft:planks",
       "data": 32767
     },
     "5": {
-      "item": "minecraft:iron_bars"
+      "item": "srpdefenseaddon_kravataf:reinforcedironbar"
     },
     "7": {
-      "item": "minecraft:iron_bars"
+      "item": "srpdefenseaddon_kravataf:reinforcedironbar"
     }
   },
   "result": {

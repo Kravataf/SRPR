@@ -42,6 +42,7 @@ public class BlockToughWood extends ElementsScapeandRunParasitesDefenseAddon.Mod
 			super(Material.WOOD);
 			setUnlocalizedName("toughwood");
 			setSoundType(SoundType.WOOD);
+			setHarvestLevel("pickaxe", 3);
 			setHardness(61F);
 			setResistance(100F);
 			setLightLevel(0F);

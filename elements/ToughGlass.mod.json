@@ -2,7 +2,7 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "toughwoodtexture1",
+    "texture": "toughglasstexture",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -11,8 +11,8 @@
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
-    "hasTransparency": false,
-    "transparencyType": "SOLID",
+    "hasTransparency": true,
+    "transparencyType": "TRANSLUCENT",
     "mx": 0.0,
     "my": 0.0,
     "mz": 0.0,
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Tough Wood",
+    "name": "Tough Glass",
     "specialInfo": [],
     "hardness": 61.0,
     "resistance": 100.0,
@@ -38,9 +38,9 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 255,
+    "lightOpacity": 0,
     "material": {
-      "value": "WOOD"
+      "value": "GLASS"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -56,7 +56,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "WOOD"
+      "value": "GLASS"
     },
     "luminance": 0.0,
     "unbreakable": false,

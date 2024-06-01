@@ -54,6 +54,8 @@ public class ElementsScapeandRunParasitesDefenseAddon implements IFuelHandler, I
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsScapeandRunParasitesDefenseAddon() {
+		sounds.put(new ResourceLocation("srpdefenseaddon_kravataf", "swing"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("srpdefenseaddon_kravataf", "swing")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

@@ -16,7 +16,7 @@
     "shootConstantly": false,
     "usageCount": 0,
     "actionSound": {
-      "value": "entity.arrow.shoot"
+      "value": "CUSTOM:swing"
     },
     "hasGlow": false,
     "enableMeleeDamage": false,

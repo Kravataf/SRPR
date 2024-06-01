@@ -234,24 +234,85 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "ToughGlass",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CraftToughGlass",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ReinforcedSteelBar",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedironbar"
+    },
+    {
+      "name": "CraftReinforcedSteelBar",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToughenUpAdvancement",
+      "type": "achievement",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FleshArmorAdvancement",
+      "type": "achievement",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "swing",
+      "file": "swing-whoosh-11-198503",
+      "category": "player"
+    }
+  ],
   "language_map": {
     "en_us": {
       "tile.sentientmine.name": "Sentient Mine",
+      "tile.toughglass.name": "Tough Glass",
+      "advancements.toughenupadvancement.title": "Toughen Up",
       "item.plateofflesh.name": "Plate of Flesh",
       "tile.toughrock.name": "Tough Rock",
-      "item.flesharmorlegs.name": "Flesh Leggings",
       "itemGroup.tabsrpdacreativetab": "SRP: Defense Addon",
+      "item.flesharmorlegs.name": "Flesh Leggings",
       "advancements.srpdawelcomeadvancement.title": "SRP: Defense Addon",
       "item.dynamite.name": "Dynamite",
+      "advancements.toughenupadvancement.descr": "Craft Reinforced Iron Bars",
       "advancements.srpdawelcomeadvancement.descr": "Adds traps and other stuff to help you survive amongst the parasites",
       "item.flesharmorboots.name": "Flesh Boots",
+      "advancements.flesharmoradvancement.descr": "Equip a piece of Flesh Armor",
       "item.flesharmorhelmet.name": "Flesh Helmet",
       "tile.toughwood.name": "Tough Wood",
-      "item.flesharmorbody.name": "Flesh Body"
+      "item.flesharmorbody.name": "Flesh Body",
+      "advancements.flesharmoradvancement.title": "Prepare",
+      "item.reinforcedironbar.name": "Reinforced Iron Bar"
     }
   },
   "workspaceSettings": {

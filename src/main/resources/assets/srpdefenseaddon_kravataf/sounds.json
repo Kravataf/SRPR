@@ -1,1 +1,11 @@
-{}
+{
+  "swing": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "srpdefenseaddon_kravataf:swing-whoosh-11-198503",
+        "stream": false
+      }
+    ]
+  }
+}

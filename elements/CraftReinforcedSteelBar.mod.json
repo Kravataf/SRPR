@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Crafting",
     "xpReward": 0.0,
-    "recipeRetstackSize": 3,
+    "recipeRetstackSize": 8,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -12,34 +12,34 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:ReinforcedSteelBar"
+        "value": "Blocks.IRON_BARS"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:ReinforcedSteelBar"
+        "value": "Items.IRON_INGOT"
       },
       {
-        "value": "Blocks.PLANKS"
+        "value": "Blocks.IRON_BARS"
       },
       {
-        "value": "CUSTOM:ReinforcedSteelBar"
+        "value": "Items.IRON_INGOT"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:ReinforcedSteelBar"
+        "value": "Blocks.IRON_BARS"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ToughWood"
+      "value": "CUSTOM:ReinforcedSteelBar"
     },
-    "name": "crafttoughwood",
+    "name": "craftreinforcedsteelbar",
     "namespace": "mod"
   }
 }

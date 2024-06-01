@@ -21,7 +21,7 @@
         "value": "CUSTOM:ReinforcedSteelBar"
       },
       {
-        "value": "Blocks.PLANKS"
+        "value": "Blocks.GLASS"
       },
       {
         "value": "CUSTOM:ReinforcedSteelBar"
@@ -37,9 +37,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ToughWood"
+      "value": "CUSTOM:ToughGlass"
     },
-    "name": "crafttoughwood",
+    "name": "crafttoughglass",
     "namespace": "mod"
   }
 }

@@ -14,7 +14,7 @@
       "item": "srpdefenseaddon_kravataf:reinforcedironbar"
     },
     "4": {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:glass"
     },
     "5": {
       "item": "srpdefenseaddon_kravataf:reinforcedironbar"
@@ -24,7 +24,7 @@
     }
   },
   "result": {
-    "item": "srpdefenseaddon_kravataf:toughrock",
+    "item": "srpdefenseaddon_kravataf:toughglass",
     "count": 3
   }
 }

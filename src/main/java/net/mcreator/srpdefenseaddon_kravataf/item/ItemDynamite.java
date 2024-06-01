@@ -93,7 +93,7 @@ public class ItemDynamite extends ElementsScapeandRunParasitesDefenseAddon.ModEl
 				int z = (int) entity.posZ;
 				world.playSound((EntityPlayer) null, (double) x, (double) y, (double) z,
 						(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY
-								.getObject(new ResourceLocation(("entity.arrow.shoot"))),
+								.getObject(new ResourceLocation(("srpdefenseaddon_kravataf:swing"))),
 						SoundCategory.NEUTRAL, 1, 1f / (itemRand.nextFloat() * 0.5f + 1f) + (power / 2));
 				entityarrow.pickupStatus = EntityArrow.PickupStatus.DISALLOWED;
 				if (!world.isRemote)
