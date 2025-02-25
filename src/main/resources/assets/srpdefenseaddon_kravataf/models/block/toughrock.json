@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "srpdefenseaddon_kravataf:blocks/toughrocktexture1",
-    "particle": "srpdefenseaddon_kravataf:blocks/toughrocktexture1"
+    "all": "srpdefenseaddon_kravataf:blocks/toughstone2",
+    "particle": "srpdefenseaddon_kravataf:blocks/toughstone2"
   }
 }

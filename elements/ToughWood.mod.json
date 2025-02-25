@@ -2,7 +2,7 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "c1264b2eefbbab5272330b4e6a7343b4",
+    "texture": "toughplanks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Tough Wood",
+    "name": "Tough Oak Wood Planks",
     "specialInfo": [],
     "hardness": 61.0,
     "resistance": 100.0,

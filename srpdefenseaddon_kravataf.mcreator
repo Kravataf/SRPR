@@ -299,7 +299,7 @@
       "tile.toughglass.name": "Tough Glass",
       "advancements.toughenupadvancement.title": "Toughen Up",
       "item.plateofflesh.name": "Plate of Flesh",
-      "tile.toughrock.name": "Tough Rock",
+      "tile.toughrock.name": "Tough Stone",
       "itemGroup.tabsrpdacreativetab": "SRP: Defense Addon",
       "item.flesharmorlegs.name": "Flesh Leggings",
       "advancements.srpdawelcomeadvancement.title": "SRP: Defense Addon",
@@ -309,10 +309,10 @@
       "item.flesharmorboots.name": "Flesh Boots",
       "advancements.flesharmoradvancement.descr": "Equip a piece of Flesh Armor",
       "item.flesharmorhelmet.name": "Flesh Helmet",
-      "tile.toughwood.name": "Tough Wood",
+      "tile.toughwood.name": "Tough Oak Wood Planks",
       "item.flesharmorbody.name": "Flesh Body",
       "advancements.flesharmoradvancement.title": "Prepare",
-      "item.reinforcedironbar.name": "Reinforced Iron Bar"
+      "item.reinforcedironbar.name": "Reinforced Iron Bars"
     }
   },
   "workspaceSettings": {

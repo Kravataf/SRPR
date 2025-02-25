@@ -2,7 +2,7 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "toughrocktexture1",
+    "texture": "toughstone2",
     "textureTop": "toughrocktexture1",
     "textureLeft": "toughrocktexture1",
     "textureFront": "toughrocktexture1",
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Tough Rock",
+    "name": "Tough Stone",
     "specialInfo": [],
     "hardness": 61.0,
     "resistance": 100.0,

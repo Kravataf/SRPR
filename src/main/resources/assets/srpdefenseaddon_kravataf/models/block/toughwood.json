@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "srpdefenseaddon_kravataf:blocks/c1264b2eefbbab5272330b4e6a7343b4",
-    "particle": "srpdefenseaddon_kravataf:blocks/c1264b2eefbbab5272330b4e6a7343b4"
+    "all": "srpdefenseaddon_kravataf:blocks/toughplanks",
+    "particle": "srpdefenseaddon_kravataf:blocks/toughplanks"
   }
 }

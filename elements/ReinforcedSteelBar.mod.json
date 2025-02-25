@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "reinforcedsteelbar",
+    "texture": "ironbars",
     "customModelName": "Normal",
-    "name": "Reinforced Iron Bar",
+    "name": "Reinforced Iron Bars",
     "creativeTab": {
       "value": "CUSTOM:SrpDAcreativetab"
     },
