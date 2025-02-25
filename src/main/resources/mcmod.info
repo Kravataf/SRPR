@@ -1,9 +1,9 @@
 [
   {
     "modid": "srpdefenseaddon_kravataf",
-    "name": "Scape and Run: Parasites Defense Addon",
+    "name": "Scape and Run: Reinforced",
     "description": "Adds stuff to help you survive among the parasites",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "credits": "made by kravataf using mcreator, blockbench and piskel",
     "logoFile": "",
     "mcversion": "1.12.2",
