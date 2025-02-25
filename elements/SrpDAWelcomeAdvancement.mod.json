@@ -2,7 +2,7 @@
   "_fv": 6,
   "_type": "achievement",
   "definition": {
-    "achievementName": "SRP: Defense Addon",
+    "achievementName": "SRP: Reinforced",
     "achievementDescription": "Adds traps and other stuff to help you survive amongst the parasites",
     "achievementIcon": {
       "value": "CUSTOM:FleshArmor.helmet"
