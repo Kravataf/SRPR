@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "srpr_kravataf:blocks/toughplanks",
+    "particle": "srpr_kravataf:blocks/toughplanks"
+  }
+}

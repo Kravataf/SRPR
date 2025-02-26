@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "srpr_kravataf:flesharmorbody"
+    },
+    "title": {
+      "translate": "advancements.flesharmoradvancement.title"
+    },
+    "description": {
+      "translate": "advancements.flesharmoradvancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flesharmoradvancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "srpr_kravataf:srpdawelcomeadvancement"
+}

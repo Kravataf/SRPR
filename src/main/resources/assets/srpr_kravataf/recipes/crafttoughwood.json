@@ -1,0 +1,31 @@
+{
+  "group": "srpr_kravataf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "srpr_kravataf:reinforcedironbar"
+    },
+    "3": {
+      "item": "srpr_kravataf:reinforcedironbar"
+    },
+    "4": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "5": {
+      "item": "srpr_kravataf:reinforcedironbar"
+    },
+    "7": {
+      "item": "srpr_kravataf:reinforcedironbar"
+    }
+  },
+  "result": {
+    "item": "srpr_kravataf:toughwood",
+    "count": 3
+  }
+}

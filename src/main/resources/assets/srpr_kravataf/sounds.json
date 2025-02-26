@@ -1,0 +1,11 @@
+{
+  "swing": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "srpr_kravataf:swing-whoosh-11-198503",
+        "stream": false
+      }
+    ]
+  }
+}

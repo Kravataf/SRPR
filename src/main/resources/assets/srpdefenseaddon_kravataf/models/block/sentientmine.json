@@ -1,8 +1,0 @@
-{
-  "parent": "srpdefenseaddon_kravataf:custom/sentientminev2",
-  "textures": {
-    "all": "srpdefenseaddon_kravataf:blocks/entientineexture",
-    "particle": "srpdefenseaddon_kravataf:blocks/entientineexture",
-    "0": "srpdefenseaddon_kravataf:blocks/entientineexture"
-  }
-}

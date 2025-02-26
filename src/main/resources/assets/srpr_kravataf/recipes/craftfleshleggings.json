@@ -1,0 +1,30 @@
+{
+  "group": "srpr_kravataf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "srpr_kravataf:plateofflesh"
+    },
+    "3": {
+      "item": "srpr_kravataf:plateofflesh"
+    },
+    "4": {
+      "item": "minecraft:iron_leggings"
+    },
+    "5": {
+      "item": "srpr_kravataf:plateofflesh"
+    },
+    "7": {
+      "item": "srpr_kravataf:plateofflesh"
+    }
+  },
+  "result": {
+    "item": "srpr_kravataf:flesharmorlegs",
+    "count": 1
+  }
+}

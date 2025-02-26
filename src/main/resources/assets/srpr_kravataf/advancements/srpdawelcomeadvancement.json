@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "srpr_kravataf:textures/advancementsbgtexturev1.png",
+    "icon": {
+      "item": "srpr_kravataf:flesharmorhelmet"
+    },
+    "title": {
+      "translate": "advancements.srpdawelcomeadvancement.title"
+    },
+    "description": {
+      "translate": "advancements.srpdawelcomeadvancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "srpdawelcomeadvancement": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
